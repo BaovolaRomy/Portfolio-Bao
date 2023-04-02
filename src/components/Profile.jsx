@@ -3,7 +3,7 @@ import {BsCloudDownloadFill} from 'react-icons/bs'
 
 const Profile = () => {
 return(
-    <div id="profile" className="max-w-[1040px] m-auto md:pl-20 p-4 py16">
+    <div id="profile" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
         <h1 className="text-6xl m-2 font-bold text-center text-rose-900">About me</h1>
         <div className="grid sm:grid-cols-2 gap-12">
             <p className="text-xl my-2 text-stone-500 text-justify">
@@ -14,7 +14,7 @@ return(
             </a>
 
             </p>
-            <img className="m-4" src="src/assets/profile.jpg" alt="" />
+            <img className="m-2" src="/assets/profile.png" alt="" />
         </div>
         
     </div>

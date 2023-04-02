@@ -22,7 +22,7 @@ const Projects = () => {
             </div>
 
             <div>
-                <a href="https://evas-front.netlify.app/"> 
+                <a href="https://portfolio.baovola-andrianarisoa.com/"> 
                     <ProjectItems
                         image={portfolioImg}
                         title='Portfolio' />

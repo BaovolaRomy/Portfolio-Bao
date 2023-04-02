@@ -30,7 +30,7 @@ const data = [
 
 const Work = () => {
     return(
-    <div id="work" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
+    <div id="work" className="max-w-[1040px] m-auto md:pl-20 p-4 py-5">
         <h1 className="text-6xl m-2 font-bold text-center text-pink-900">Work</h1>
         {data.map((item, index) => (
             <WorkItems 

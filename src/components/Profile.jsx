@@ -14,7 +14,7 @@ return(
             </a>
 
             </p>
-            <img className="m-2" src="/assets/profile.png" alt="" />
+            <img className="m-2" src="profile.png" alt="" />
         </div>
         
     </div>

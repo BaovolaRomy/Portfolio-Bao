@@ -27,7 +27,7 @@ const Projects = () => {
                         image={portfolioImg}
                         title='Portfolio' />
                 </a>
-                <a href=""><FaGithub className="m-2 " size={50} /></a>
+                <a href="https://github.com/BaovolaRomy/Portfolio-Bao"><FaGithub className="m-2 " size={50} /></a>
             </div>
             
         </div>
